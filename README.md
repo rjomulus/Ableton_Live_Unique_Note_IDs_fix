@@ -5,6 +5,7 @@ Python script for solving the issue when you can't open up an Ableton Live sessi
 *I am not liable for anything that happens to the file, so a copy is always a good idea!*
 
 How to use:
+
 0. You'll need to download the Python file or copy the code into a Python file.
 1. Make sure you have Python installed.  I used version 3.10.10 to create this, but in theory any python that's newer could work too. If you're new to Python versioning, be aware that this can be a spot of trouble.
 2. Once Python is installed (if you haven't already), open up a new Terminal window (I am using macOS).  To do so you can press CMD+Spacebar.
